@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>istockphoto-139687163-1024x1024.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\istockphoto-139687163-1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>224</ymin>
+			<xmax>714</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

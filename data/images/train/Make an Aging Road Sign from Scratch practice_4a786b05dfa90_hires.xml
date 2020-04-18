@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Make an Aging Road Sign from Scratch practice_4a786b05dfa90_hires.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\Make an Aging Road Sign from Scratch practice_4a786b05dfa90_hires.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>399</ymin>
+			<xmax>793</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

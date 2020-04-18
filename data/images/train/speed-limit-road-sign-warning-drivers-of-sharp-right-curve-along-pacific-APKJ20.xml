@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>speed-limit-road-sign-warning-drivers-of-sharp-right-curve-along-pacific-APKJ20.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\speed-limit-road-sign-warning-drivers-of-sharp-right-curve-along-pacific-APKJ20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>959</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>33</ymin>
+			<xmax>438</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

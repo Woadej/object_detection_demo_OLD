@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>sticker-yellow-square-frame-turn-right-traffic-vector-13663857.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\sticker-yellow-square-frame-turn-right-traffic-vector-13663857.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>270</ymin>
+			<xmax>743</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>

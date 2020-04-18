@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>signpost-you-to-turn-right-in-front-for-security-C2AJBA.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\signpost-you-to-turn-right-in-front-for-security-C2AJBA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1052</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>87</ymin>
+			<xmax>991</xmax>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+</annotation>

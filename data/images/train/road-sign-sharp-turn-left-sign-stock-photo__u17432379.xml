@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>road-sign-sharp-turn-left-sign-stock-photo__u17432379.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\road-sign-sharp-turn-left-sign-stock-photo__u17432379.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>16</ymin>
+			<xmax>425</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

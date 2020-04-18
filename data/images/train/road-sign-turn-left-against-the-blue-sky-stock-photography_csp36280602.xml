@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>road-sign-turn-left-against-the-blue-sky-stock-photography_csp36280602.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\road-sign-turn-left-against-the-blue-sky-stock-photography_csp36280602.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>257</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>52</ymin>
+			<xmax>164</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

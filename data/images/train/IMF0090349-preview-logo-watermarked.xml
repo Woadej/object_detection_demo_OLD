@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>IMF0090349-preview-logo-watermarked.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\IMF0090349-preview-logo-watermarked.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>90</ymin>
+			<xmax>539</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

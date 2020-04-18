@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>stock-photo-set-traffic-signdo-not-turn-leftright-turn-aheadvector-illustration-1154888.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\stock-photo-set-traffic-signdo-not-turn-leftright-turn-aheadvector-illustration-1154888.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>21</ymin>
+			<xmax>210</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>273</ymin>
+			<xmax>458</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

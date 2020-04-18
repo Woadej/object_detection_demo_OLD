@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>sharp-turn-ahead-sign_1556219.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\sharp-turn-ahead-sign_1556219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>146</ymin>
+			<xmax>1105</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+</annotation>
