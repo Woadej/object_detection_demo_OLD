@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>902A8D8B-813E-4B92-BC25-4861F2B1010B-xl__94327.1561746803.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test\902A8D8B-813E-4B92-BC25-4861F2B1010B-xl__94327.1561746803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>190</ymin>
+			<xmax>1109</xmax>
+			<ymax>1062</ymax>
+		</bndbox>
+	</object>
+</annotation>

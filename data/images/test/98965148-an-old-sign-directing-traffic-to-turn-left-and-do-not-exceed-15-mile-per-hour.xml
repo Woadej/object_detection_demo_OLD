@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>98965148-an-old-sign-directing-traffic-to-turn-left-and-do-not-exceed-15-mile-per-hour.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test\98965148-an-old-sign-directing-traffic-to-turn-left-and-do-not-exceed-15-mile-per-hour.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>38</ymin>
+			<xmax>588</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1551109_1.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test\1551109_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>146</ymin>
+			<xmax>418</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

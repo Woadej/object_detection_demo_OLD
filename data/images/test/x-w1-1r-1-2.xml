@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>x-w1-1r-1-2.png</filename>
+	<path>C:\Users\Woradej\Desktop\test\x-w1-1r-1-2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>77</ymin>
+			<xmax>769</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

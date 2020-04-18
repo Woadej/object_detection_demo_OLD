@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>signpost-sharp-right-curve-road_74436-870.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test\signpost-sharp-right-curve-road_74436-870.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>55</ymin>
+			<xmax>554</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>
