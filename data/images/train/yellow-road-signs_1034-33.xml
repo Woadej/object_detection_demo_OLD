@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>yellow-road-signs_1034-33.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\yellow-road-signs_1034-33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>308</ymin>
+			<xmax>371</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>270</ymin>
+			<xmax>550</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

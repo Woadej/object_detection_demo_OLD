@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>x-w1-2r-1-2.png</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\x-w1-2r-1-2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>43</ymin>
+			<xmax>593</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

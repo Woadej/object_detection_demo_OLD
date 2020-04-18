@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>yellow-highway-sign-warning-of-dangerous-curve-and-15-mph-speed-limit-A2JB75.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\yellow-highway-sign-warning-of-dangerous-curve-and-15-mph-speed-limit-A2JB75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>949</xmin>
+			<ymin>72</ymin>
+			<xmax>1300</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
