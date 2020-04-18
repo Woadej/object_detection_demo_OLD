@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20044787-right-curve-traffic-sign.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\20044787-right-curve-traffic-sign.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>939</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>170</ymin>
+			<xmax>574</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

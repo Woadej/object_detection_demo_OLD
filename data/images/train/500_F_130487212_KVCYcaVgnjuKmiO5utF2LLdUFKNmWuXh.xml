@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>500_F_130487212_KVCYcaVgnjuKmiO5utF2LLdUFKNmWuXh.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\500_F_130487212_KVCYcaVgnjuKmiO5utF2LLdUFKNmWuXh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>28</ymin>
+			<xmax>255</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

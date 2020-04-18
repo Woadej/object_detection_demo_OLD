@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>27188419-turn-left-traffic-sign.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\27188419-turn-left-traffic-sign.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>52</ymin>
+			<xmax>881</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

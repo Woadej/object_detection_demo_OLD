@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>24745919-a-sign-indicating-a-right-turn-of-a-road.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\24745919-a-sign-indicating-a-right-turn-of-a-road.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>863</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>121</ymin>
+			<xmax>367</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

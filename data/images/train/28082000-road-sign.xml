@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>28082000-road-sign.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\28082000-road-sign.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>346</ymin>
+			<xmax>602</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

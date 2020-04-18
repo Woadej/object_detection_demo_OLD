@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>15467851-road-sign-left-turn-warning-with-blue-sky-blank-for-text.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\15467851-road-sign-left-turn-warning-with-blue-sky-blank-for-text.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>843</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>140</ymin>
+			<xmax>507</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>15869434-traffic-background.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\15869434-traffic-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>194</ymin>
+			<xmax>530</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

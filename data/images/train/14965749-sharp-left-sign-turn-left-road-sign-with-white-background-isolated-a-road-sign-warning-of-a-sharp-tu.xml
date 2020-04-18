@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>14965749-sharp-left-sign-turn-left-road-sign-with-white-background-isolated-a-road-sign-warning-of-a-sharp-tu.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\14965749-sharp-left-sign-turn-left-road-sign-with-white-background-isolated-a-road-sign-warning-of-a-sharp-tu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>870</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>286</ymin>
+			<xmax>757</xmax>
+			<ymax>911</ymax>
+		</bndbox>
+	</object>
+</annotation>

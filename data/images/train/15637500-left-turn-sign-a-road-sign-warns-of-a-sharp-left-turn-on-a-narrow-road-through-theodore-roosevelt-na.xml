@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>15637500-left-turn-sign-a-road-sign-warns-of-a-sharp-left-turn-on-a-narrow-road-through-theodore-roosevelt-na.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\15637500-left-turn-sign-a-road-sign-warns-of-a-sharp-left-turn-on-a-narrow-road-through-theodore-roosevelt-na.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>838</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>964</xmin>
+			<ymin>2</ymin>
+			<xmax>1292</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
