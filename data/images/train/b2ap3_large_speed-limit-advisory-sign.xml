@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>b2ap3_large_speed-limit-advisory-sign.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\b2ap3_large_speed-limit-advisory-sign.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>19</ymin>
+			<xmax>399</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>blue-turn-left-sign-pole-park-blue-turn-left-sign-pole-112339865.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\blue-turn-left-sign-pole-park-blue-turn-left-sign-pole-112339865.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1065</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>30</ymin>
+			<xmax>1133</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>

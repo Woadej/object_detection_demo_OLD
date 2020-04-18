@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>depositphotos_185199110-stock-photo-road-sign-warning-left-curve.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\depositphotos_185199110-stock-photo-road-sign-warning-left-curve.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>305</ymin>
+			<xmax>1284</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>

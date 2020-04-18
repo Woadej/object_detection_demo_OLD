@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>gire-la-derecha-de-la-señal-en-la-carretera-nacional-señales-de-tráfico-75920541.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\gire-la-derecha-de-la-señal-en-la-carretera-nacional-señales-de-tráfico-75920541.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>23</ymin>
+			<xmax>89</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>best_crop_7e93963889ea773bbbbb_mini_magick20190806-21428-7d09tk.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\best_crop_7e93963889ea773bbbbb_mini_magick20190806-21428-7d09tk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>18</ymin>
+			<xmax>695</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

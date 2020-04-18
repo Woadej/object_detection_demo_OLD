@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>e7773689935edbd32ede295859670a33--traffic-sign-outdoor-play.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\e7773689935edbd32ede295859670a33--traffic-sign-outdoor-play.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>258</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>22</ymin>
+			<xmax>168</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>26</ymin>
+			<xmax>90</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

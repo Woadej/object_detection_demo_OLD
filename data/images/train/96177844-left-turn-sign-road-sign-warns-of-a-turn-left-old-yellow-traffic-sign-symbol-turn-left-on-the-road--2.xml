@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>96177844-left-turn-sign-road-sign-warns-of-a-turn-left-old-yellow-traffic-sign-symbol-turn-left-on-the-road--2.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train\96177844-left-turn-sign-road-sign-warns-of-a-turn-left-old-yellow-traffic-sign-symbol-turn-left-on-the-road--2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>79</ymin>
+			<xmax>805</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>
