@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>turn-left-sign_1544909.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\turn-left-sign_1544909.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>248</ymin>
+			<xmax>1047</xmax>
+			<ymax>1044</ymax>
+		</bndbox>
+	</object>
+</annotation>

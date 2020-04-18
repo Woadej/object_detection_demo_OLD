@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>turn-right-yellow-traffic-sign-clip-art_csp13820827.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\turn-right-yellow-traffic-sign-clip-art_csp13820827.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>39</ymin>
+			<xmax>194</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

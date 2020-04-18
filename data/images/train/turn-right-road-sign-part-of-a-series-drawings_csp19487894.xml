@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>turn-right-road-sign-part-of-a-series-drawings_csp19487894.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\turn-right-road-sign-part-of-a-series-drawings_csp19487894.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>31</ymin>
+			<xmax>302</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

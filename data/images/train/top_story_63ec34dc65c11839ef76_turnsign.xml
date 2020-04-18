@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>top_story_63ec34dc65c11839ef76_turnsign.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\New folder\top_story_63ec34dc65c11839ef76_turnsign.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>61</ymin>
+			<xmax>502</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>
